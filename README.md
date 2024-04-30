@@ -3,4 +3,4 @@
 This repository is created for those exercises.
 
 - **Book** : 얄코의 TOO MUCH 친절한 깃&깃허브 [[링크]](https://product.kyobobook.co.kr/detail/S000203382595) 
-- **강의** : [Youtube](https://youtu.be/1I3hMwQU6GU) `free`　[Inflearn](https://www.inflearn.com/course/%EC%A0%9C%EB%8C%80%EB%A1%9C-%ED%8C%8C%EB%8A%94-%EA%B9%83?inst=a17e4bef) `ALL`
+- **Online Lecture** : [Youtube](https://youtu.be/1I3hMwQU6GU) `free`　[Inflearn](https://www.inflearn.com/course/%EC%A0%9C%EB%8C%80%EB%A1%9C-%ED%8C%8C%EB%8A%94-%EA%B9%83?inst=a17e4bef) `ALL`
